@@ -22,4 +22,3 @@ function displayMovies(movies) {
         moviesContainer.appendChild(movieElement);
     });
 }
-cksncsjkk
